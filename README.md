@@ -59,4 +59,3 @@ Geben Sie bei der `ToString()`-Methode des Vogels dann einen passenden Text, auc
 Zum Testen setzen Sie die auskommentierten Zeilen am Ende des Hauptprogramms wieder aktiv.
 
 ![Illustration](Task03.png)
-[ref1]: Task.002.png
